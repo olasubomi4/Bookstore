@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RA/LOOPocEu8z2WxMKh+L5ZGsheOs4sozBq+Bxo6HKUW40u9Dj2Wh0C99mBwlxhNGYghEMfNNw3VQ5r4tK+6ng==",
+  "dgSpecHash": "3xgRib1XRyRanuZkECjla26URR1sSL8pV3IrCYzv2mWWXPEjCOtF+deoptKV9WZzTUd8jBfSeZjaqBiLi7qTfA==",
   "success": true,
-  "projectFilePath": "/Users/olasubomi/Projects/rock.net/rock.utility/rock.utility.csproj",
+  "projectFilePath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/rock.utility.csproj",
   "expectedPackageFiles": [
     "/Users/olasubomi/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.2.0/microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "/Users/olasubomi/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

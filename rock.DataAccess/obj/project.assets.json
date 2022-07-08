@@ -2683,34 +2683,19 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj": "1.0.0",
           "CommandLineParser": "2.9.1",
           "EntityFramework": "6.4.4",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.2.0",
           "Microsoft.Extensions.CommandLineUtils": "1.1.1",
-          "Microsoft.Extensions.Configuration.CommandLine": "6.0.0",
-          "Rock.Utilities": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/rock.Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/rock.Models.dll": {}
-        }
-      },
-      "Rock.Utilities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "CommandLineParser": "2.9.1",
-          "Microsoft.Extensions.CommandLineUtils": "1.1.1",
           "Microsoft.Extensions.Configuration.CommandLine": "6.0.0"
         },
         "compile": {
-          "bin/placeholder/Rock.Utilities.dll": {}
+          "bin/placeholder/rock.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Rock.Utilities.dll": {}
+          "bin/placeholder/rock.Models.dll": {}
         }
       }
     }
@@ -8550,11 +8535,6 @@
       "type": "project",
       "path": "../rock.Models/rock.Models.csproj",
       "msbuildProject": "../rock.Models/rock.Models.csproj"
-    },
-    "Rock.Utilities/1.0.0": {
-      "type": "project",
-      "path": "../Rock.Utilities/Rock.Utilities.csproj",
-      "msbuildProject": "../Rock.Utilities/Rock.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8581,11 +8561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olasubomi/Projects/rock.net/rock.DataAccess/rock.DataAccess.csproj",
+      "projectUniqueName": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.DataAccess/rock.DataAccess.csproj",
       "projectName": "rock.DataAccess",
-      "projectPath": "/Users/olasubomi/Projects/rock.net/rock.DataAccess/rock.DataAccess.csproj",
+      "projectPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.DataAccess/rock.DataAccess.csproj",
       "packagesPath": "/Users/olasubomi/.nuget/packages/",
-      "outputPath": "/Users/olasubomi/Projects/rock.net/rock.DataAccess/obj/",
+      "outputPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.DataAccess/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olasubomi/.nuget/NuGet/NuGet.Config"
@@ -8601,8 +8581,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/olasubomi/Projects/rock.net/rock.Models/rock.Models.csproj": {
-              "projectPath": "/Users/olasubomi/Projects/rock.net/rock.Models/rock.Models.csproj"
+            "/Users/olasubomi/Projects/rock.net/Bookstore/rock.Models/rock.Models.csproj": {
+              "projectPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.Models/rock.Models.csproj"
             }
           }
         }
@@ -8694,5 +8674,16 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

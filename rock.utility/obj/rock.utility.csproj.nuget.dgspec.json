@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/olasubomi/Projects/rock.net/rock.utility/rock.utility.csproj": {}
+    "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/rock.utility.csproj": {}
   },
   "projects": {
-    "/Users/olasubomi/Projects/rock.net/rock.utility/rock.utility.csproj": {
+    "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/rock.utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olasubomi/Projects/rock.net/rock.utility/rock.utility.csproj",
+        "projectUniqueName": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/rock.utility.csproj",
         "projectName": "rock.utility",
-        "projectPath": "/Users/olasubomi/Projects/rock.net/rock.utility/rock.utility.csproj",
+        "projectPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/rock.utility.csproj",
         "packagesPath": "/Users/olasubomi/.nuget/packages/",
-        "outputPath": "/Users/olasubomi/Projects/rock.net/rock.utility/obj/",
+        "outputPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.utility/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/olasubomi/.nuget/NuGet/NuGet.Config"

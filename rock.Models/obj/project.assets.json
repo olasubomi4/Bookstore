@@ -2294,21 +2294,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "Rock.Utilities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "CommandLineParser": "2.9.1",
-          "Microsoft.Extensions.CommandLineUtils": "1.1.1",
-          "Microsoft.Extensions.Configuration.CommandLine": "6.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Rock.Utilities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Rock.Utilities.dll": {}
-        }
       }
     }
   },
@@ -7504,15 +7489,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "Rock.Utilities/1.0.0": {
-      "type": "project",
-      "path": "../Rock.Utilities/Rock.Utilities.csproj",
-      "msbuildProject": "../Rock.Utilities/Rock.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj",
       "CommandLineParser >= 2.9.1",
       "EntityFramework >= 6.4.4",
       "Microsoft.AspNetCore.Mvc.Abstractions >= 2.2.0",
@@ -7520,8 +7501,7 @@
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.6",
       "Microsoft.Extensions.CommandLineUtils >= 1.1.1",
       "Microsoft.Extensions.Configuration.CommandLine >= 6.0.0",
-      "NuGet.CommandLine >= 6.2.1",
-      "Rock.Utilities >= 1.0.0"
+      "NuGet.CommandLine >= 6.2.1"
     ]
   },
   "packageFolders": {
@@ -7530,11 +7510,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/olasubomi/Projects/rock.net/rock.Models/rock.Models.csproj",
+      "projectUniqueName": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.Models/rock.Models.csproj",
       "projectName": "rock.Models",
-      "projectPath": "/Users/olasubomi/Projects/rock.net/rock.Models/rock.Models.csproj",
+      "projectPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.Models/rock.Models.csproj",
       "packagesPath": "/Users/olasubomi/.nuget/packages/",
-      "outputPath": "/Users/olasubomi/Projects/rock.net/rock.Models/obj/",
+      "outputPath": "/Users/olasubomi/Projects/rock.net/Bookstore/rock.Models/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/olasubomi/.nuget/NuGet/NuGet.Config"
@@ -7550,8 +7530,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/olasubomi/Projects/rock.net/Rock.Utilities/Rock.Utilities.csproj": {
-              "projectPath": "/Users/olasubomi/Projects/rock.net/Rock.Utilities/Rock.Utilities.csproj"
+            "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj": {
+              "projectPath": "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj"
             }
           }
         }
@@ -7621,5 +7601,16 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "/Users/olasubomi/Projects/rock.net/Bookstore/Rock.Utilities/Rock.Utilities.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
