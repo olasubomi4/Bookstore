@@ -45,3 +45,17 @@
 /Users/olasubomi/Projects/rock.net/rock.Models/obj/Debug/net6.0/ref/rock.Models.dll
 /Users/olasubomi/Projects/rock.net/rock.Models/bin/Debug/net6.0/rock.Models.runtimeconfig.json
 /Users/olasubomi/Projects/rock.net/rock.Models/obj/Debug/net6.0/rock.Models.genruntimeconfig.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/bin/Debug/net6.0/rock.Models.deps.json
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/bin/Debug/net6.0/rock.Models.runtimeconfig.json
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/bin/Debug/net6.0/rock.Models.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/bin/Debug/net6.0/rock.Models.pdb
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.csproj.AssemblyReference.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.AssemblyInfoInputs.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.AssemblyInfo.cs
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.csproj.CoreCompileInputs.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/refint/rock.Models.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.pdb
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/rock.Models.genruntimeconfig.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.Models/obj/Debug/net6.0/ref/rock.Models.dll

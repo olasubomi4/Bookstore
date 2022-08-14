@@ -1,19 +1,21 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
-
-
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using rock.Models;
 
 namespace rock.Data{
-	public class ApplicationDbContext : DbContext
+	public class ApplicationDbContext :IdentityDbContext
 	{
 		public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
-		{ }
+		{
+		}
 		public DbSet<Category> categories { get; set; }
 		public DbSet<CoverType> coverTypes { get; set; }
         public DbSet<Product> products { get; set; }
+	
     }
+
 
     public class YourDbContextFactory : IDesignTimeDbContextFactory<ApplicationDbContext>
 	{
