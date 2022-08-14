@@ -1,0 +1,12 @@
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/bin/Debug/net6.0/rock.utility.deps.json
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/bin/Debug/net6.0/rock.utility.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/bin/Debug/net6.0/rock.utility.pdb
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.csproj.AssemblyReference.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.AssemblyInfoInputs.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.AssemblyInfo.cs
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.csproj.CoreCompileInputs.cache
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/refint/rock.utility.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/rock.utility.pdb
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock.utility/obj/Debug/net6.0/ref/rock.utility.dll
