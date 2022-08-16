@@ -1963,7 +1963,6 @@
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Buffers.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Collections.Concurrent.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Collections.dll
-/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Collections.Immutable.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Collections.NonGeneric.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.Collections.Specialized.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/refs/System.ComponentModel.Annotations.dll
@@ -2435,3 +2434,11 @@
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Scaffolding.Core.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Azure.Core.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Azure.Identity.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Microsoft.DotNet.MSIdentity.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Microsoft.Graph.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Microsoft.Graph.Core.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/System.Collections.Immutable.dll
+/Users/olasubomi/Projects/rock.net/Bookstore/BookStore/rock/bin/Debug/net6.0/System.Memory.Data.dll

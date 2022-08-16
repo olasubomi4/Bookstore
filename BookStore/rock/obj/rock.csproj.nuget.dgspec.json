@@ -312,6 +312,10 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
+            "Microsoft.DotNet.MSIdentity": {
+              "target": "Package",
+              "version": "[2.0.0-preview.5.22330.7, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.6, )"
